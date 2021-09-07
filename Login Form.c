@@ -38,7 +38,7 @@ clrscr();
 
 gotoxy(20,5);
 
-printf("____Programming Made Easy_____");
+printf("____FORM_____");
 
 gotoxy(28,7);
 
